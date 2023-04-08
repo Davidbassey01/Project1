@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Davidbassey01/Project1.git)
-- Live Site URL: [Add live site URL here](http://127.0.0.1:5500/index.html)
+- Live Site URL: [Add live site URL here](https://basseyproject01.netlify.app/)
 
 ## My process
 
