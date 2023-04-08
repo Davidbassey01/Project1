@@ -19,7 +19,7 @@ main {
   background: var(--White);
   border-radius: 14px;
   width: 23%;
-  height: 70%;
+  height: 69%;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -53,7 +53,14 @@ main {
   position: absolute;
   bottom: 5%;
   left: 50%;
-  transform: translate(-50%, -200%);
+  transform: translate(-50%, 150%);
+}
+.attribution p{
+  margin: 15px auto;
+}
+.text h1{
+  font-size: 18px;
+  padding-top: 10px;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
