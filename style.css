@@ -54,6 +54,7 @@ main {
   bottom: 5%;
   left: 50%;
   transform: translate(-50%, 150%);
+  width: 100%;
 }
 .attribution p{
   margin: 15px auto;
